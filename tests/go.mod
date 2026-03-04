@@ -3,7 +3,7 @@ module github.com/pbs/terraform-aws-bucket-notification-module
 go 1.20
 
 require (
-	github.com/aws/aws-sdk-go v1.44.258
+	github.com/aws/aws-sdk-go v1.55.8
 	github.com/gruntwork-io/terratest v0.41.23
 	github.com/stretchr/testify v1.8.2
 )
